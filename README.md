@@ -1,5 +1,7 @@
 # Meet Franken-BERT!
 
+https://colab.research.google.com/drive/1_ST76deDMcGf8mFnnL6ZVGcWxoRxr1Zc?usp=sharing
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **:waning_crescent_moon: On a dark stormy night, there were two Data Scientists who worked together in a secret lab called Zoom. With their combined passion, determination, and caffeine intake, they created a model that contained a mixture of their findings! Thus, Franken-BERT was born! HE'S ALIIIIIVE!** :zap: *Insert dramatic lightning strike and thunder sound effects here.*
 
