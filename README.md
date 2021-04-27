@@ -8,7 +8,7 @@
 
 This repository contains the joint efforts and research of Austin Francis and Ashley Brooks of Labs33 in creating a most efficient BERT model to be used in the Blue Witness product for Lambda Labs.
 
-Included are all of the ingredients that were required to give Franken-BERT life.
+Included are all of the ingredients that were required to give Franken-BERT life as well as how you can pick up the pieces to move forward with the Blue Witness Labs Product.
 
 These ingredients include articles, vidoes, notes, notebooks, and picture guides. However, it is important to note that the secret ingredients (the ones that really give Franken-BERT life) are passion, determination, a curiosity for the unknown, and just a sprinkle of late nights and caffeine products.
 
@@ -20,6 +20,8 @@ Please include and contribute any other resources and notes you use along your j
 
 **Goodluck, enjoy, and have fun!**
 
+
+Feel free to reach out and connect with us on LinkedIn!
 
 **[Ashley Brooks](https://www.linkedin.com/in/ashley-brooks91/) and [Austin Francis](https://www.linkedin.com/in/austincfrancis/)**
 
