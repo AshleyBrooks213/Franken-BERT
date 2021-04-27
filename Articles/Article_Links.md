@@ -9,3 +9,4 @@ Here you can add any links and descriptions for learning resources.
 
 [This](https://analyticsindiamag.com/how-i-used-bidirectional-encoder-representations-from-transformers-bert-to-analyze-twitter-data/) is one of the articles used to create the working BERT model 
 
+The code is sometimes buggy, but [HERE](https://github.com/practical-nlp/practical-nlp) is a good example of using BERT for a classification task.
