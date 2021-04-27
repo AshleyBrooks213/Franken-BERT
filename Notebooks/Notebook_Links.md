@@ -13,3 +13,9 @@ You can add any Notebook links and descriptions here.
 ACAB: https://colab.research.google.com/drive/1KHmpvp0ka5fu407X4OQyYiNRkF2L29LW?usp=sharing
 
 Brooklyn Center: https://colab.research.google.com/drive/1fYpFiJm-HBJ5d38qdauj6veCmTUCevGh?usp=sharing
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This is the Franken-BERT Colab Notebook: https://colab.research.google.com/drive/1_ST76deDMcGf8mFnnL6ZVGcWxoRxr1Zc?usp=sharing
