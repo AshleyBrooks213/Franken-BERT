@@ -18,4 +18,4 @@ Brooklyn Center: https://colab.research.google.com/drive/1fYpFiJm-HBJ5d38qdauj6v
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the Franken-BERT Colab Notebook: https://colab.research.google.com/drive/1_ST76deDMcGf8mFnnL6ZVGcWxoRxr1Zc?usp=sharing
+Colab Notebook with BERT example: https://colab.research.google.com/drive/1_ST76deDMcGf8mFnnL6ZVGcWxoRxr1Zc?usp=sharing
