@@ -24,7 +24,7 @@ Please include and contribute any other resources and notes you use along your j
 Feel free to reach out and connect with us on LinkedIn!
 
 **[Ashley Brooks](https://www.linkedin.com/in/ashley-brooks91/) and [Austin Francis](https://www.linkedin.com/in/austincfrancis/)**
-
+https://ashley-brooks.medium.com/google-bert-in-recognizing-police-brutality-77d42ba6dd62
 
 ![image](https://user-images.githubusercontent.com/72030800/114763286-41048500-9d28-11eb-8e6d-3d3678b94ba2.png) ![image](https://user-images.githubusercontent.com/72030800/114760600-182ec080-9d25-11eb-94d9-33078955a121.png)
 
