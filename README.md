@@ -12,7 +12,7 @@ Included are all of the ingredients that were required to give Franken-BERT life
 
 These ingredients include articles, vidoes, notes, notebooks, and picture guides. However, it is important to note that the secret ingredients (the ones that really give Franken-BERT life) are passion, determination, a curiosity for the unknown, and just a sprinkle of late nights and caffeine products.
 
-We hope that this serves as a guide and reference for all others who will be working with Franken-BERT and that you will have as much fun as we did.
+We hope that this serves as a guide and reference for all others who will be working with Franken-BERT and that you will have as much fun as we did!
 
 Please include and contribute any other resources and notes you use along your journey with Franken-BERT so that others may learn about the changes and upgrades made. 
 
